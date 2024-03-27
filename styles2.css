@@ -1,0 +1,27 @@
+/* These are styles for demo page */
+
+
+.button {
+    /* reset button styles */
+    all: initial;
+
+    margin: 0 auto;
+
+    font-family: sans-serif;
+
+    padding: 10px 26px;
+    font-size: 18px;
+    border-radius: 6px;
+
+    color: #fff;
+    background-color: #ff4cc7;
+}
+
+.button:hover {
+    cursor: pointer;
+    background-color: #ed38b4;
+}
+
+.button:active {
+    background-color: #d21e99;
+}
